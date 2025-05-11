@@ -1,3 +1,20 @@
+## Table of Contents
+
+- [Project Title](#project-title)  
+- [Project Overview](#project-overview)  
+- [Data Source](#data-source)  
+- [Tools Used](#tools-used)  
+- [Techniques Applied](#techniques-applied)  
+- [Dashboard Link](#dashboard-link)  
+- [Objectives](#objectives)  
+- [Key Insights](#key-insights)  
+  - [Wallet Transactions](#wallet-transactions)  
+  - [OWealth Transactions](#owealth-transactions)  
+- [Recommendations](#recommendations)  
+- [Conclusion](#conclusion)  
+- [Author](#author)
+
+##- Project Title  
 # Opay-Automated-Personal-Finance-Tracker
 This Personal Finance Tracker analyzes Opay statements to show income, spending, savings, and trends. Built in Power Bi, it helps users easily track and understand their finances using automated insights from their transactions.
 
